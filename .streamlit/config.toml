@@ -1,0 +1,10 @@
+[server]
+# Uploaded files are held in memory by Streamlit; 2 GB is a practical ceiling on a desktop PC.
+maxUploadSize = 2048
+headless = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#4f46e5"
